@@ -1,0 +1,16 @@
+{
+  "name": "puppeter-pdf",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "dependencies": {
+    "chai": "^4.3.6",
+    "dotenv": "^16.0.0",
+    "nodemon": "^2.0.16",
+    "puppeteer": "^13.7.0"
+  },
+  "engines": {
+    "node": ">=16"
+  }
+}
